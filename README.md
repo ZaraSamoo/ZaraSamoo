@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Zara 👋
+![Profile Views](https://komarev.com/ghpvc/?username=ZaraSamoo&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
-<!--
-**ZaraSamoo/ZaraSamoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Artificial Intelligence undergraduate at GIKI with a strong focus on machine learning, computer vision workflows, and UAV avionics. I enjoy building automated systems and handling electronic fabrication for unmanned aerial vehicles.
 
-Here are some ideas to get you started:
+### 🚀 My Projects & Contributions
+* **[Face Attendance System](https://github.com/ZaraSamoo/face-attendance):** Automated attendance tracking using OpenCV and grayscale vector matching.
+* **[AI Spotify Dashboard](https://github.com/ZaraSamoo/AI-Spotify-Dashboard):** An AI-integrated dashboard for Spotify data.
+* **[Smart Eco City (CS112 Project)](https://github.com/ZaraSamoo/CS112-Project):** Technical implementation for the CS112 course.
+* **[MealMate Pro (CS101 Project)](https://github.com/ZaraSamoo/CS101-Project):** Foundational programming project for CS101.
+* **[InternHub (GitOracle)](https://github.com/ZaraSamoo/InternHub):** An open-source bounty tracking system utilizing a robust PostgreSQL database architecture.
+* **[Grid Routing and Data Logging](https://github.com/ZaraSamoo/Grid-Routing-and-Data-Logging):** C++ implementation of complex data structures for efficient routing.
+* **[Aero-Guard / MachineGuard](https://github.com/bytefairy0/MachineGuard-mlops-pipeline):** An autonomous wildfire monitoring system built with a complete MLOps pipeline. 
+* **[CS221 Project](https://github.com/batoolfazal/CS221-Project):** Collaborative C++ project.
+* **[Git Chronicles (Blog)](https://github.com/hamxa296/blog):** Open-source blog template contribution.
+* **UAV Electronic Systems (Off-GitHub):** Led avionics and electronic systems fabrication for competition aircraft (Teknofest & PakUAS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Real-Time Stats
+[![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaraSamoo&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo&layout=compact&theme=dark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZaraSamoo&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+### 🛠️ Languages & Tools
+* **Programming:** Python, C++
+* **Data & Databases:** PostgreSQL, SQL
+* **Deployment & Cloud:** Docker, Firebase, Vercel, Render
+* **Machine Learning & Vision:** OpenCV, MLOps Pipelines
+* **Hardware:** UAV Avionics, Electronic Systems Integration
+
+### 📫 Let's Connect
+* [LinkedIn](https://www.linkedin.com/in/zara-gul-samoo-81bb7b349/)
+* [GitHub](https://github.com/ZaraSamoo)
