@@ -1,9 +1,9 @@
-# Hi there, I'm Zara 👋
+# Hi there, I'm Zara 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZaraSamoo&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 I am an Artificial Intelligence undergraduate at GIKI with a strong focus on machine learning, computer vision workflows, and UAV avionics. I enjoy building automated systems and handling electronic fabrication for unmanned aerial vehicles.
 
-### 🚀 My Projects & Contributions
+###  My Projects & Contributions
 * **[Git Chronicles (Blog)](https://github.com/hamxa296/blog):** A GIKI-centric platform featuring student blogs, an interactive freshman guide, and a dynamic campus map.
 * **[Face Attendance System](https://github.com/ZaraSamoo/face-attendance):** Automated attendance tracking using OpenCV and grayscale vector matching.
 * **[AI Spotify Dashboard](https://github.com/ZaraSamoo/AI-Spotify-Dashboard):** An AI-integrated dashboard for Spotify data.
@@ -14,7 +14,7 @@ I am an Artificial Intelligence undergraduate at GIKI with a strong focus on mac
 * **[Grid Routing and Data Logging](https://github.com/batoolfazal/CS221-Project):** C++ implementation of complex data structures for efficient routing.
 * **UAV Electronic Systems (Off-GitHub):** Led avionics and electronic systems fabrication for competition aircraft (Teknofest & PakUAS).
 
-### 📊 Real-Time Stats
+###  Real-Time Stats
 [![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaraSamoo&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo&layout=compact&theme=dark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo)
 
