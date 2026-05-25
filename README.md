@@ -15,9 +15,10 @@ I am an Artificial Intelligence undergraduate at GIKI with a strong focus on mac
 * **[Git Chronicles (Blog)](https://github.com/hamxa296/blog):** Open-source blog template contribution.
 * **UAV Electronic Systems (Off-GitHub):** Led avionics and electronic systems fabrication for competition aircraft (Teknofest & PakUAS).
 
+
 ### 📊 Real-Time Stats
-![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaraSamoo&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo&layout=compact&theme=dark&hide_border=true)
+![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaraSamoo&show_icons=true&theme=dark&hide_border=true&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo&layout=compact&theme=dark&hide_border=true&v=1)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZaraSamoo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
