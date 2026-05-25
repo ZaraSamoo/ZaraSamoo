@@ -15,8 +15,8 @@ I am an Artificial Intelligence undergraduate at GIKI with a strong focus on mac
 * **UAV Electronic Systems (Off-GitHub):** Led avionics and electronic systems fabrication for competition aircraft (Teknofest & PakUAS).
 
 ###  Real-Time Stats
-[![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaraSamoo&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo&layout=compact&theme=dark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo)
+[[Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaraSamoo&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo&layout=compact&theme=dark&hide_border=true)](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaraSamoo)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ZaraSamoo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
